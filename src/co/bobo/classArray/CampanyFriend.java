@@ -19,3 +19,4 @@ public class CampanyFriend extends Friend {
 	}
 
 }
+//

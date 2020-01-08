@@ -19,3 +19,4 @@ public class UnivFriend extends Friend {
 	}
 	
 }
+//

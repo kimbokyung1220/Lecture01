@@ -6,5 +6,5 @@ public class Taxi extends Car {
 		engine = "2500cc";
 		System.out.println("나는 택시임");
 	}
-
+	//
 }

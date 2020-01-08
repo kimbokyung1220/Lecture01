@@ -8,7 +8,7 @@ public class Member {
 	 * public을 생략하면 같은 패키지 안에 있는 클래스에만 사용가능
 	 * 만약, 다른 패키지에 있는 클래스에도 사용하고싶다면 public을 생략하면 안됨.
 	 * 
-	 * */
+	 * */ 
 	
 	String id;
 	String name;
@@ -37,5 +37,5 @@ public class Member {
 		System.out.println("name : " + name + " eDate : " + eDate + " addr : " + addr + " tel : " + tel);
 		System.out.println("===========================");
 	}
-
+	//
 }
